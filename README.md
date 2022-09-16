@@ -1,3 +1,10 @@
+## Installation
+
+```bash
+$ npm i
+$ docker-compose buidl
+```
+
 ## Running the app
 
 ```bash
